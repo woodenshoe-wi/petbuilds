@@ -1,0 +1,2 @@
+9b5bb26df64481c060c3923a3cffa2c2  jwm-2.3.6.tar.xz
+fede0c3c5f19687d26eeaafdec5029ac  readme
