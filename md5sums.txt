@@ -1,3 +1,4 @@
+e144e4662ebe4ca5091df37352b82d28  gtkdialog-0.8.4.tar.xz
 9b5bb26df64481c060c3923a3cffa2c2  jwm-2.3.6.tar.xz
 3d445c9d170950e73ca8c9ba547c5597  puppy_icon_theme-0.5.tar.gz
 fede0c3c5f19687d26eeaafdec5029ac  readme
