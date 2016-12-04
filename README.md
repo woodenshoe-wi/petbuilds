@@ -3,7 +3,7 @@ petbuilds
 
 recipes for pet package building
 
-see http://www.murga-linux.com/puppy/viewtopic.php?t=96027 and
+see http://www.murga-linux.com/puppy/viewtopic.php?t=96027 and  
 https://github.com/puppylinux-woof-CE/petbuilds for more info.
 
 
